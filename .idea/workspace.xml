@@ -11,22 +11,11 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/HackerRank$WeightedMean.coverage" NAME="WeightedMean Coverage Results" MODIFIED="1544424282695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics/Day0" />
+    <SUITE FILE_PATH="coverage/HackerRank$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1544424674725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_30days/Day0" />
     <SUITE FILE_PATH="coverage/HackerRank$Mean_Median_Mode.coverage" NAME="Mean_Median_Mode Coverage Results" MODIFIED="1544424163428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics/Day0" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SherlockAndSquares.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProblemSolving/SherlockAndSquares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LibraryFine.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProblemSolving/LibraryFine.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,7 +101,7 @@
         </entry>
       </file>
       <file leaf-file-name="Mean_Median_Mode.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Statistics/Day0/Mean_Median_Mode.py">
+        <entry file="file://$PROJECT_DIR$/Statistics_10days/Day0/Mean_Median_Mode.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
@@ -123,11 +112,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeightedMean.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Statistics/Day0/WeightedMean.py">
+      <file leaf-file-name="WeightedMean.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statistics_10days/Day0/WeightedMean.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorld.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_30days/Day0/HelloWorld.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -149,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProblemSolving/CompareTheTriplets.py" />
         <option value="$PROJECT_DIR$/ProblemSolving/AVeryBigSum.py" />
         <option value="$PROJECT_DIR$/ProblemSolving/DiagonalDifference.py" />
         <option value="$PROJECT_DIR$/ProblemSolving/PlusMinus.py" />
@@ -200,6 +198,7 @@
         <option value="$PROJECT_DIR$/ProblemSolving/TaumAndBDay.py" />
         <option value="$PROJECT_DIR$/Statistics/Day0/Mean_Median_Mode.py" />
         <option value="$PROJECT_DIR$/Statistics/Day0/WeightedMean.py" />
+        <option value="$PROJECT_DIR$/Python_30days/Day0/HelloWorld.py" />
       </list>
     </option>
   </component>
@@ -242,12 +241,23 @@
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_30days" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_30days" type="462c0819:PsiDirectoryNode" />
+              <item name="Day0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="Statistics_10days" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="Statistics_10days" type="462c0819:PsiDirectoryNode" />
               <item name="Day0" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -274,7 +284,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.WeightedMean">
+  <component name="RunManager" selected="Python.HelloWorld">
+    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_30days/Day0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HackerRank" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_30days/Day0/HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Mean_Median_Mode" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,14 +342,16 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.Mean_Median_Mode" />
       <item index="1" class="java.lang.String" itemvalue="Python.WeightedMean" />
+      <item index="2" class="java.lang.String" itemvalue="Python.HelloWorld" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.WeightedMean" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Mean_Median_Mode" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.HelloWorld" />
+        <item index="1" class="java.lang.String" itemvalue="Python.WeightedMean" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Mean_Median_Mode" />
       </list>
     </recent_temporary>
   </component>
@@ -342,12 +373,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32869297" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19327074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -376,13 +408,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/SolveMeFirst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolving/CompareTheTriplets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -740,7 +765,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Statistics/Day0/Mean_Median_Mode.py">
+    <entry file="file://$PROJECT_DIR$/Statistics_10days/Day0/Mean_Median_Mode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
@@ -750,10 +775,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Statistics/Day0/WeightedMean.py">
+    <entry file="file://$PROJECT_DIR$/Statistics_10days/Day0/WeightedMean.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_30days/Day0/HelloWorld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
