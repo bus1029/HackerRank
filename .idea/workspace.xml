@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49951dd5-1efa-4e97-85cc-8e5fd635fa9f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Statistics_10days/Day2/Basic Probability.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistics_10days/Day2/Compound Event Probability.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistics_10days/Day2/More Dice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistics_10days/Day2/Probability.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProblemSolving/Arrays/NewYearChaos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Preparation Kit/Array/NewYearChaos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProblemSolving/Arrays/TwoDArray_DS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Preparation Kit/Array/TwoDArray_DS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProblemSolving/CountingValleys.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Preparation Kit/Warm-up Challenges/CountingValleys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProblemSolving/JumpingOnTheClouds.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Preparation Kit/Warm-up Challenges/JumpingOnTheClouds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProblemSolving/RepeatedString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Preparation Kit/Warm-up Challenges/RepeatedString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProblemSolving/SockMerchant.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Preparation Kit/Warm-up Challenges/SockMerchant.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +38,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Statistics_10days/Day2/Probability.txt">
+        <entry file="file://$PROJECT_DIR$/Statistics_10days/Day2/Probability Tutorial.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
@@ -62,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Statistics_10days/Day2/Compound Event Probability.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
@@ -71,14 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProblemSolving/Arrays/TwoDArray_DS.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProblemSolving/AngryProgessor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="665">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -210,6 +209,16 @@
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview Preparation Kit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="Statistics_10days" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -230,6 +239,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SeokHyun\PycharmProjects\HackerRank\.git\HackerRank\Interview Preparation Kit\Warm-up Challenges" />
+      <recent name="C:\Users\SeokHyun\PycharmProjects\HackerRank\.git\HackerRank\Interview Preparation Kit\Array" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -345,7 +360,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/Arrays/TwoDArray_DS.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\SeokHyun\PycharmProjects\HackerRank\.git\HackerRank\Interview Preparation Kit\Array\TwoDArray_DS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -383,12 +398,12 @@
       <updated>1544407548613</updated>
       <workItem from="1544425250628" duration="3802000" />
       <workItem from="1544493992997" duration="7424000" />
-      <workItem from="1544580666960" duration="1770000" />
+      <workItem from="1544580666960" duration="2112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12996000" />
+    <option name="totallyTimeSpent" value="13338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
@@ -470,7 +485,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/SockMerchant.py">
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Warm-up Challenges/SockMerchant.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
@@ -484,7 +499,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/CountingValleys.py">
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Warm-up Challenges/CountingValleys.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
           <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
@@ -544,13 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
           <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/AngryProgessor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
@@ -661,7 +669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/RepeatedString.py">
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Warm-up Challenges/RepeatedString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
           <caret line="42" selection-start-line="42" selection-end-line="42" />
@@ -671,7 +679,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/JumpingOnTheClouds.py">
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Warm-up Challenges/JumpingOnTheClouds.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
@@ -725,7 +733,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/Arrays/NewYearChaos.py">
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Array/NewYearChaos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
@@ -735,7 +743,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/Arrays/TwoDArray_DS.py">
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Array/TwoDArray_DS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
@@ -780,7 +788,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Statistics_10days/Day2/Probability.txt">
+    <entry file="file://$PROJECT_DIR$/Statistics_10days/Day2/More Dice.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statistics_10days/Day2/Probability Tutorial.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
@@ -794,17 +809,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Statistics_10days/Day2/More Dice.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Statistics_10days/Day2/Compound Event Probability.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolving/AngryProgessor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
