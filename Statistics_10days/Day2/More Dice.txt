@@ -1,0 +1,11 @@
+Task
+In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probability that the values rolled by each die
+will be different and the two dice have a sum of 6.
+
+=>
+
+2 fair six-sided dice => total 36 probabilities
+two dice have a sum of 6 => (1, 5), (2, 4), (3, 3), (4, 2), (5, 1)
+different number => (1, 5), (2, 4), (4, 2), (5, 1)
+
+Then, Answer is 1/9
