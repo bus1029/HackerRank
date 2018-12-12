@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49951dd5-1efa-4e97-85cc-8e5fd635fa9f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_30days/Day 02_Operators/Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Preparation Kit/Array/ArrayManipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Preparation Kit/Array/Arrays_LeftRotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Preparation Kit/Array/MinimumSwaps2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_30days/Day0/HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_30days/Day 00_Hello World/HelloWorld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_30days/Day1/DataTypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_30days/Day 01_Data Types/DataTypes.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +20,9 @@
     <SUITE FILE_PATH="coverage/HackerRank$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1544427030096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_30days/Day0" />
     <SUITE FILE_PATH="coverage/HackerRank$StandardDeviation.coverage" NAME="StandardDeviation Coverage Results" MODIFIED="1544497515813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics_10days/Day1" />
     <SUITE FILE_PATH="coverage/HackerRank$InterquartileRange.coverage" NAME="InterquartileRange Coverage Results" MODIFIED="1544498328697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics_10days/Day1" />
+    <SUITE FILE_PATH="coverage/HackerRank$MinimumSwaps2.coverage" NAME="MinimumSwaps2 Coverage Results" MODIFIED="1544592393449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview Preparation Kit/Array" />
     <SUITE FILE_PATH="coverage/HackerRank$TwoDArray_DS.coverage" NAME="TwoDArray_DS Coverage Results" MODIFIED="1544427343179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/Arrays" />
+    <SUITE FILE_PATH="coverage/HackerRank$ArrayManipulation.coverage" NAME="ArrayManipulation Coverage Results" MODIFIED="1544598418401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview Preparation Kit/Array" />
     <SUITE FILE_PATH="coverage/HackerRank$Quartiles.coverage" NAME="Quartiles Coverage Results" MODIFIED="1544495569438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics_10days/Day1" />
     <SUITE FILE_PATH="coverage/HackerRank$DataTypes.coverage" NAME="DataTypes Coverage Results" MODIFIED="1544499152102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_30days/Day1" />
     <SUITE FILE_PATH="coverage/HackerRank$Operators.coverage" NAME="Operators Coverage Results" MODIFIED="1544583540025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_30days/Day 02_Operators" />
@@ -80,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_30days/Day 02_Operators/Operators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="475">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Array/Arrays_LeftRotation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
@@ -93,28 +105,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Statistics_10days/Day1/StandardDeviation.py">
+        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Array/MinimumSwaps2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            <state relative-caret-position="323">
+              <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="29" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Statistics_10days/Day1/InterquartileRange.py">
+        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Array/ArrayManipulation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_30days/Day 01_Data Types/DataTypes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="808">
+              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,9 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProblemSolving/BreakingTheRecords.py" />
-        <option value="$PROJECT_DIR$/ProblemSolving/BirthdayChocolate.py" />
-        <option value="$PROJECT_DIR$/ProblemSolving/DivisibleSumPairs.py" />
         <option value="$PROJECT_DIR$/ProblemSolving/MigratoryBirds.py" />
         <option value="$PROJECT_DIR$/ProblemSolving/DayOfTheProgrammer.py" />
         <option value="$PROJECT_DIR$/ProblemSolving/BonAppetit.py" />
@@ -186,6 +192,9 @@
         <option value="$PROJECT_DIR$/Statistics_10days/Day2/More Dice.txt" />
         <option value="$PROJECT_DIR$/Statistics_10days/Day2/Compound Event Probability.txt" />
         <option value="$PROJECT_DIR$/Python_30days/Day 02_Operators/Operators.py" />
+        <option value="$PROJECT_DIR$/Interview Preparation Kit/Array/Arrays_LeftRotation.py" />
+        <option value="$PROJECT_DIR$/Interview Preparation Kit/Array/MinimumSwaps2.py" />
+        <option value="$PROJECT_DIR$/Interview Preparation Kit/Array/ArrayManipulation.py" />
       </list>
     </option>
   </component>
@@ -215,13 +224,18 @@
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_30days" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview Preparation Kit" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="Python_30days" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 02_Operators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
@@ -265,7 +279,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Operators">
+  <component name="RunManager" selected="Python.ArrayManipulation">
+    <configuration name="ArrayManipulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HackerRank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview Preparation Kit/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview Preparation Kit/Array/ArrayManipulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="DataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,6 +346,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="MinimumSwaps2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HackerRank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview Preparation Kit/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview Preparation Kit/Array/MinimumSwaps2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,64 +390,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quartiles" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="HackerRank" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistics_10days/Day1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistics_10days/Day1/Quartiles.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="StandardDeviation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="HackerRank" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistics_10days/Day1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistics_10days/Day1/StandardDeviation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.Quartiles" />
-      <item itemvalue="Python.StandardDeviation" />
       <item itemvalue="Python.InterquartileRange" />
       <item itemvalue="Python.DataTypes" />
       <item itemvalue="Python.Operators" />
+      <item itemvalue="Python.MinimumSwaps2" />
+      <item itemvalue="Python.ArrayManipulation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ArrayManipulation" />
+        <item itemvalue="Python.MinimumSwaps2" />
         <item itemvalue="Python.Operators" />
         <item itemvalue="Python.DataTypes" />
         <item itemvalue="Python.InterquartileRange" />
-        <item itemvalue="Python.StandardDeviation" />
-        <item itemvalue="Python.Quartiles" />
       </list>
     </recent_temporary>
   </component>
@@ -405,23 +419,23 @@
       <updated>1544407548613</updated>
       <workItem from="1544425250628" duration="3802000" />
       <workItem from="1544493992997" duration="7424000" />
-      <workItem from="1544580666960" duration="2861000" />
+      <workItem from="1544580666960" duration="16686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14087000" />
+    <option name="totallyTimeSpent" value="27912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22366288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22366288" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31500393" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31500393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -443,27 +457,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/BreakingTheRecords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/BirthdayChocolate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/DivisibleSumPairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolving/MigratoryBirds.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -825,8 +818,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_30days/Day 02_Operators/Operators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        <state relative-caret-position="475">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Array/MinimumSwaps2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="29" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Array/ArrayManipulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Array/Arrays_LeftRotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>
