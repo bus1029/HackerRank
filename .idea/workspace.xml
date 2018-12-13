@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49951dd5-1efa-4e97-85cc-8e5fd635fa9f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Statistics_10days/Day3/Cards of the Same Suit.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistics_10days/Day3/Conditional Probability Tutorial.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistics_10days/Day3/Conditional Probability.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistics_10days/Day3/Drawing Marbles.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_30days/Day 03_Intro To Conditional Statements/ConditionalStatement.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,15 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Statistics_10days/Day2/Compound Event Probability.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProblemSolving/AngryProgessor.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,11 +83,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Statistics_10days/Day3/Drawing Marbles.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_30days/Day 03_Intro To Conditional Statements/ConditionalStatement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProblemSolving/SockMerchant.py" />
         <option value="$PROJECT_DIR$/ProblemSolving/DrawingBook.py" />
         <option value="$PROJECT_DIR$/ProblemSolving/CountingValleys.py" />
         <option value="$PROJECT_DIR$/ProblemSolving/ElectronicsShop.py" />
@@ -195,6 +194,7 @@
         <option value="$PROJECT_DIR$/Statistics_10days/Day3/Conditional Probability.txt" />
         <option value="$PROJECT_DIR$/Statistics_10days/Day3/Cards of the Same Suit.txt" />
         <option value="$PROJECT_DIR$/Statistics_10days/Day3/Drawing Marbles.txt" />
+        <option value="$PROJECT_DIR$/Python_30days/Day 03_Intro To Conditional Statements/ConditionalStatement.py" />
       </list>
     </option>
   </component>
@@ -229,13 +229,13 @@
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Statistics_10days" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_30days" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 02_Operators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="Statistics_10days" type="462c0819:PsiDirectoryNode" />
-              <item name="Day3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -409,18 +409,18 @@
       <workItem from="1544425250628" duration="3802000" />
       <workItem from="1544493992997" duration="7424000" />
       <workItem from="1544580666960" duration="17329000" />
-      <workItem from="1544663481424" duration="4812000" />
+      <workItem from="1544663481424" duration="5551000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33367000" />
+    <option name="totallyTimeSpent" value="34106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14019449" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19692059" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -447,13 +447,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/DrawingBook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Warm-up Challenges/CountingValleys.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
@@ -840,6 +833,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_30days/Day 03_Intro To Conditional Statements/ConditionalStatement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
