@@ -1,0 +1,13 @@
+Task
+You draw 2 cards from a standard 52-card deck without replacing them. What is the probability that both cards are
+of the same suit?
+=>
+
+4 Suit. (Diamond, Heart, Clover, Spade)
+
+First Card Draw => 13/52 = 1/4
+Second Same Card Draw => 12/51
+
+Then, 1/4 * 12/51 = 3/51.
+
+There are 4 Suit, 3/51 * 4 = 12/51

@@ -1,0 +1,12 @@
+Task
+Suppose a family has 2 children, one of which is a boy. What is the probability that both children are boys?
+=>
+
+Total Case = {BB, BG, GB}
+
+Answer is 1/3
+
+하지만 처음엔 두 자녀 중 한명이 boy라고 가정한 상태에서
+나머지 한명의 확률을 계산해서 1/2인 줄 알았다.
+
+Discussion 에서도 문제에 대한 말이 많다.
