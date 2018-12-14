@@ -1,0 +1,26 @@
+Bernoulli Random Variable and Distribution
+
+The sample space of a binomial experiment only contains two points, s(success) and f(failure).
+We define a Bernoulli random variable to be the random variable defined by X(s) = 1 and X(f) = 0.
+If we consider the probability of success to be p and the probability of failure to be q(where q = 1-p),
+then the probability mass function(PMF) of X is:
+
+            f(x) = p**x * (1-p)**(1-x), for x {0, 1}
+
+
+Binomial Distribution
+
+We define a binomial process to be a binomial experiment meeting the following conditions:
+
+- The number of successes is x.
+- The total number of trials is n.
+- The probability of success of 1 trial is p.
+- The probability of failure of 1 trial q, where p = 1 - q.
+- b(x, n, p) is the binomial probability, meaning the probability of having exactly x successes out of n trials.
+
+The binomial random variable is the number of successes, x, out of n trials.
+
+The binomial distribution is the probability distribution for the binomial random variable, given by the following
+probability mass function:
+
+            b(x, n, p) = nCx * p**x * q**(n-x)
