@@ -1,0 +1,20 @@
+Normal Distribution
+The probability density of normal distribution is:
+
+    N(m, s**2) = (1 / s * math.sqrt(2 * math.PI)) * math.exp(-((x - m)**2) / 2 * s**2)
+
+Here,
+- m is the mean (or expectation) of the distribution. It is also equal to median and mode of the distribution.
+- s**2 is the variance.
+- s is the standard deviation.
+
+
+
+Standard Normal Distribution
+if m = 0 and s = 1, then the normal distribution is known as standard normal distribution:
+
+    o(x) = math.exp(-(x**2 / 2)) / math.sqrt(2 * math.PI)
+
+Every normal distribution can be represented as standard normal distribution:
+
+    N(m, s**2) = 1/s * o((x-m) / s)

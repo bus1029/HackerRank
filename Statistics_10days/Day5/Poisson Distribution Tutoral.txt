@@ -1,0 +1,40 @@
+이항분포의 식에서 p(x)가 식으로 계산될 수 없다면 어떻게 해야할까? => Poisson Random Variable
+
+Poisson Experiment
+A Poisson experiment is a statistical experiment that has the following properties:
+- The outcome of each trial is either success or failure.
+- The average number of successes (l: lambda) that occurs in a specified region is known.
+- The probability that a success will occur is proportional to the size of the region.
+- The probability that a success will occur in an extremely small region is virtually zero.
+
+
+
+Poisson Distribution
+A Poisson random variable is the number of successes that result from a Poisson experiment.
+The probability distribution of a Poisson random variable is called Poisson distribution:
+
+    P(k, l: lambda) = l**k * exp(-l) / k!
+
+Here,
+- e = 2.71828
+- l is the average number of successes that occur in a specified region.
+- k is the actual number of successes that occur in a specified region.
+- P(k, l) is the Poisson probability, which is the probability of getting exactly k successes when the
+average number of successes is l.
+
+
+Special Case
+Consider some Poisson random variable, X. Let E[X] be the expectation of X. Find the value of E[X**2].
+
+Let Var(X) be the variance of X. Recall that if a random variable has a Poisson distribution, then:
+
+- E[X] = l(lambda)
+- Var(X) = l
+
+Now, we'll use the following property of expectation and variance for any random variable, X:
+
+    Var(X) = E[X**2] - (E[X])**2
+    => E[X**2] = Var(X) + (E[X])**2
+
+So, for any random variable X having a Poisson distribution, the above result can be rewritten as:
+    => E[X**2] = l + l**2
