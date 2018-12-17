@@ -1,0 +1,16 @@
+Central Limit Theorem
+
+The central limit theorem (CLT) states that, for a large enough sample (n), the distribution of the sample
+mean will approach normal distribution. This holds for a sample of independent random variables from any
+distribution with a finite standard deviation.
+
+Let {X1, X2, X3, ..., Xn} be a random data set of size n, that is, a sequence of independent and identically
+distributed random variables drawn from distribution of expected values given by m and finite variances
+given by s**2. The sample average is:
+
+    S_n := sum([Xi]) / N
+
+For large n, the distribution of sample sums S_n is close to normal distribution N(m', s') where:
+
+    - m' = n * m
+    - s' = n**0.5 * s

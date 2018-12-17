@@ -1,0 +1,33 @@
+The Central Limit Theorem requires the following assumptions
+
+- The sample size of N is large enough(more than 30 points usually)
+
+- Every data point in the entire population is normally distributed with the same mean m
+and the same standard deviation s (this is the not the so-called "population standard deviation")
+
+- The sample size is less than 10% of the total population size (to ensure every
+data point comes independently).
+
+Then the sample mean is also normally distributed with same mean as the population mean m, and
+standard deviation as s / N**0.5
+
+In practice, there are two different cases:
+
+1. When the standard deviation of population s is known.
+2. When s is unknown.
+
+For the first case, we use the z-score for hypothesis test, as well as the confidence interval,
+since the sample mean x_ is already normally distributed.
+
+For the second case, we use the t-score and t-distributed for hypothesis test and
+confidence interval. Here, since we don't have s. We use the sample standard deviation s to
+approximate s. That is why the quantity
+
+    z = x_ - m / (x / N**0.5)
+
+is no longer normally distributed. It follows the t-distribution with freedom of degree N - 1.
+The 1.96 is the critical value of the t-distribution for the 95% confidence interval
+(two-tailed p-value = 0.95).
+
+From the wording of the question, I actually can't tell whether m and s are from the population or the sample.
+But the 1.96 is definitely the critical value of 95% confidence interval from the t-distribution.

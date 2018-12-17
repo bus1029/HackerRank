@@ -18,3 +18,19 @@ if m = 0 and s = 1, then the normal distribution is known as standard normal dis
 Every normal distribution can be represented as standard normal distribution:
 
     N(m, s**2) = 1/s * o((x-m) / s)
+
+
+
+Cumulative Probability
+Consider a real-valued random variable, X. The cumulative distribution function of X(or just the distribution
+function of X) evaluated at x is the probability that X will take a value less than or equal to x:
+
+    F_X(x) = P(X <= x)
+
+Also,
+
+    P(a <= X <= b) = P(a < x < b) = F_X(b) - F_X(a)
+
+The cumulative distribution function for a function with normal distribution is:
+
+    o(x) = 0.5 * (1 + math.erf((x-m) / (s * math.sqrt(2))))
