@@ -1,0 +1,22 @@
+Covariance
+
+This is a measure of how two random variables change together, or the strength of their correlation.
+
+Consider two random variables, X and Y, each with n values(i.e., x1, x2, ..., xn and y1, y2, ..., yn).
+The covariance of X and Y can be found using either of the following equivalent formulas:
+
+    cov(X, Y) = 1/n * sum((x[i] - x_m) * (y[i] - y_m))
+
+    cov(X, Y) = 1/n**2 * sum((x[i] - x[j]) * (y[i] - y[j])) (j > i)
+
+Here, x_m is the mean of X and y_m is the mean of Y.
+
+
+
+Person Correlation Coefficient
+The Pearson correlation coefficient, p_X,Y, given by:
+
+    p_X,Y = sum((x[i] - x_m) * (y[i] - y_m)) / n * s_x * y_s
+
+Here, s_x is the standard deviation of X and s_y is the standard deviation of Y. You may also see p_X,Y written as
+r_X,Y
