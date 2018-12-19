@@ -1,0 +1,47 @@
+Regression Line
+If our data shows a linear relationship between X and Y, then the straight line which best describes the
+relationship is the regression line. The regression line is given by Y^ = a + bX.
+
+
+
+Finding the Value of b
+The value of b can be calculated using either of the following formulae:
+
+    b = (n * sum(x[i]*y[i]) - sum(x[i]) * sum(y[i])) / (n * sum(x[i]**2) - sum(x[i])**2)
+
+    b = p * s_Y / s_X, where p is the Pearson correlation coefficient, s_X is the standard deviation of X
+    and s_Y is the standard deviation of Y.
+
+
+
+Finding the Value of a
+a = y_ - b * x_, where x_ is the mean of X and y_ is the mean of Y.
+
+
+
+Sums of Squares
+- Total Sums of Squares: SST = sum(y[i] - y_)**2
+- Regression Sums of Squares: SSR = sum(y^[i] - y_)**2
+- Error Sums of Squares: SSE = sum(y^[i] - y[i])**2
+
+
+
+Coefficient of Determination (R-squared)
+R**2 = SSR / SST = 1 - SSE/SST
+R**2 multiplied by 100 gives the percent of variation attributed to the linear regression between Y and X.
+
+
+
+Linear Regression in Python
+We can use the fit function in the sklearn.linear_model.LinearRegression class.
+
+from sklearn import linear_model
+import numpy as np
+
+xl = [1, 2, 3, 4, 5]
+x = np.asarray(xl).reshape(-1, 1) => [[1], [2], [3], [4], [5]] 쭉 펴서 하나씩 넣어줘
+y = [2, 1, 4, 3, 5]
+lm = linear_model.LinearRegression()
+lm.fit(x, y)
+print(lm.intercept_)
+print(lm.coef_[0])
