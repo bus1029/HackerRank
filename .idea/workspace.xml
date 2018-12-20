@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49951dd5-1efa-4e97-85cc-8e5fd635fa9f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Statistics_10days/Day9/Multiple Linear Regression Tutorial.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistics_10days/Day9/MultipleLinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_30days/Day 10_Binary Numbers/BinaryNumbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +23,7 @@
     <SUITE FILE_PATH="coverage/HackerRank$NormalDistribution1.coverage" NAME="NormalDistribution1 Coverage Results" MODIFIED="1544840676573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics_10days/Day5" />
     <SUITE FILE_PATH="coverage/HackerRank$Quartiles.coverage" NAME="Quartiles Coverage Results" MODIFIED="1544495569438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics_10days/Day1" />
     <SUITE FILE_PATH="coverage/HackerRank$GeometricDistribution1.coverage" NAME="GeometricDistribution1 Coverage Results" MODIFIED="1544761070450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics_10days/Day4" />
+    <SUITE FILE_PATH="coverage/HackerRank$BinaryNumbers.coverage" NAME="BinaryNumbers Coverage Results" MODIFIED="1545277447677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_30days/Day 10_Binary Numbers" />
     <SUITE FILE_PATH="coverage/HackerRank$BinomialDistribution1.coverage" NAME="BinomialDistribution1 Coverage Results" MODIFIED="1544757191123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics_10days/Day4" />
     <SUITE FILE_PATH="coverage/HackerRank$InterquartileRange.coverage" NAME="InterquartileRange Coverage Results" MODIFIED="1544498328697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics_10days/Day1" />
     <SUITE FILE_PATH="coverage/HackerRank$MinimumSwaps2.coverage" NAME="MinimumSwaps2 Coverage Results" MODIFIED="1544592393449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview Preparation Kit/Array" />
@@ -46,20 +46,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Statistics_10days/Day9/MultipleLinearRegression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="751">
+            <state relative-caret-position="580">
               <caret line="47" column="39" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Statistics_10days/Day8/Pearson Correlation Coefficient 2.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_30days/Day 10_Binary Numbers/BinaryNumbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            <state relative-caret-position="399">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProblemSolving/Arrays/TwoDArray_DS.py" />
         <option value="$PROJECT_DIR$/Statistics_10days/Day1/Quartiles.py" />
         <option value="$PROJECT_DIR$/Statistics_10days/Day1/StandardDeviation.py" />
         <option value="$PROJECT_DIR$/Statistics_10days/Day1/InterquartileRange.py" />
@@ -200,6 +202,7 @@
         <option value="$PROJECT_DIR$/Python_30days/Day 09_Recursion 3/Recursion3.py" />
         <option value="$PROJECT_DIR$/Statistics_10days/Day9/Multiple Linear Regression Tutorial.txt" />
         <option value="$PROJECT_DIR$/Statistics_10days/Day9/MultipleLinearRegression.py" />
+        <option value="$PROJECT_DIR$/Python_30days/Day 10_Binary Numbers/BinaryNumbers.py" />
       </list>
     </option>
   </component>
@@ -234,7 +237,19 @@
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_30days" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 10_Binary Numbers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="Statistics_10days" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="Statistics_10days" type="462c0819:PsiDirectoryNode" />
+              <item name="Day9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,8 +282,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MultipleLinearRegression">
-    <configuration name="Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BinaryNumbers">
+    <configuration name="BinaryNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRank" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,12 +291,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_30days/Day 07_Arrays" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_30days/Day 10_Binary Numbers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_30days/Day 07_Arrays/Arrays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_30days/Day 10_Binary Numbers/BinaryNumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,19 +394,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Arrays" />
       <item itemvalue="Python.DictionariesAndMaps" />
       <item itemvalue="Python.LeastSquareRegressionLine" />
       <item itemvalue="Python.Recursion3" />
       <item itemvalue="Python.MultipleLinearRegression" />
+      <item itemvalue="Python.BinaryNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BinaryNumbers" />
         <item itemvalue="Python.MultipleLinearRegression" />
         <item itemvalue="Python.Recursion3" />
         <item itemvalue="Python.LeastSquareRegressionLine" />
         <item itemvalue="Python.DictionariesAndMaps" />
-        <item itemvalue="Python.Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -415,22 +430,23 @@
       <workItem from="1545050187485" duration="2099000" />
       <workItem from="1545098996971" duration="4540000" />
       <workItem from="1545185090942" duration="3925000" />
-      <workItem from="1545273157963" duration="3298000" />
+      <workItem from="1545273157963" duration="4360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72426000" />
+    <option name="totallyTimeSpent" value="73488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19854133" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19854133" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31500393" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31500393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -452,13 +468,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Statistics_10days/Day2/Probability Tutorial.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -834,8 +843,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Statistics_10days/Day9/MultipleLinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="751">
+        <state relative-caret-position="580">
           <caret line="47" column="39" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_30days/Day 10_Binary Numbers/BinaryNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
