@@ -19,3 +19,9 @@ if __name__ == '__main__':
     result = [sum(1 for _ in group) for _, group in groups]
 
     print(max(result))
+
+    # or Another Solution
+    n_bin = str(bin(n)[2:]).split('0')
+    bin_maplist = map(len, n_bin)
+    print(max(bin_maplist))
+    
