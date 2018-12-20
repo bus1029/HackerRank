@@ -1,0 +1,75 @@
+If Y is linearly dependent only on X, then we can use the ordinary least square regression line, Y^ = a + b * X
+However, if Y shows linear dependency on m variables X1, X2,..., Xm, then we need to find the values of
+a and m other constants (b1, b2, ..., bm). We can then write the regression equation as:
+
+    Y^ = a + b1X1 + b2X2 + ... + bmXm
+
+
+
+Matrix Form of the Regression Equation
+Let's consider that Y depends on two variables, X1 and X2. We write the regression relation as Y^ = a + b1X1 + b2X2.
+Consider the following matrix operation:
+
+    [1 X1 X2] x [[a] [b1] [b2]] = a + b1X1 + b2X2
+
+We define two matrices, X and B:
+    - X = [1 X1 X2]
+    - B = [a
+           b1
+           b2]
+
+Now, we rewrite the regression relation as Y^ = XB. This transforms the regression relation into matrix form.
+
+
+
+Generalized Matrix Form
+We will consider that Y shows a linear relationship with m variables, X1, X2, ..., Xm. Let's say that we made
+n observations on n different tuples (x1, x2, ..., xm):
+
+    y1 = a + b1x1,1 + b2x2,1 + b3x3,1 + ... + bmxm,1
+    y2 = a + b1x1,2 + b2x2,2 + b3x3,2 + ... + bmxm,2
+    y3 = a + b1x1,3 + b2x2,3 + b3x3,3 + ... + bmxm,3
+    ...
+    yn = a + b1x1,n + b2x2,n + b3x3,n + ... + bmxm,n
+
+Now, we can find the matrices:
+
+- X = [1 x1,1 x2,1 x3,1 ... xm,1
+       1 x1,2 x2,2 x3,2 ... xm,2
+       ...
+       1 x1,n x2,n x3,n ... xm,n]
+
+- Y = [y1
+       y2
+       y3
+       ...
+       yn]
+
+
+
+Finding the Matrix B
+we know that Y = X x B
+=> Xt x Y = Xt x X x B
+=> (Xt x X)_-1 x Xt x Y = I x B
+=> B = (Xt x X)_-1 x Xt x Y
+
+Note: Mt is the transpose matrix of M, M_-1 is the inverse matrix of M, and I is the identify matrix.
+
+
+
+Finding the Value of Y
+Suppose we want to find the value of Y for some tuple (x1, x2, ..., xm), then
+    Y = [1 x1 x2 ... xm] x B
+
+
+
+Multiple Regression in Python
+
+from sklearn import linear_model
+x = [[5, 7], [6, 6], [7, 4], [8, 5], [9, 6]]
+y = [10, 20, 60, 40, 50]
+lm = linear_model.LinearRegression()
+lm.fit(x, y)
+a = lm.intercept_
+b = lm.coef_
+print a, b[0], b[1]
