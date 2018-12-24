@@ -24,4 +24,4 @@ if __name__ == '__main__':
     n_bin = str(bin(n)[2:]).split('0')
     bin_maplist = map(len, n_bin)
     print(max(bin_maplist))
-    
+
