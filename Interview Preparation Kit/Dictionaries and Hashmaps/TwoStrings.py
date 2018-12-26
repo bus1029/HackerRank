@@ -8,15 +8,13 @@ import sys
 
 from collections import Counter
 
+
 # Complete the twoStrings function below.
 def twoStrings(s1, s2):
-    s1_dict = Counter(s1)
-    s2_dict = Counter(s2)
+    s1_s2 = Counter(s1) - Counter(s2)
 
-    s1_s2 = s1_dict - s2_dict
-
-    # Counter Dictionary끼리 빼면, 사라지는 Key들과 Count가 줄어주는 Key들이 발생함
-    for word, count in s1_dict.items():
+    # Counter Dictionary끼리 빼면, 사라지는 Key들과 Count가 줄어드는 Key들이 발생함
+    for word, count in Counter(s1).items():
         try:
             # Count가 달라지는 경우에는 사용되었다는 의미이므로, YES
             if s1_s2[word] != count:
@@ -27,6 +25,7 @@ def twoStrings(s1, s2):
 
     # 그 외의 경우에는 모두 NO
     return "NO"
+
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
