@@ -23,7 +23,7 @@ def hourglassSum(arr):
     return max(hour_glass_results)
 
 if __name__ == '__main__':
-    # fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    # fptr = open(os.environ['OUTPUT_PATH']+, 'w')
 
     arr = []
 
