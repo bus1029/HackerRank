@@ -14,10 +14,10 @@ def pivotFirst(a, lmark, rmark):
 
     # 두 마크가 서로 Cross되면 멈춤
     while lmark <= rmark:
-        # lmark는 피벗보다 작으면 이동
+        # lmark는 피벗보다 작거나 같으면 이동
         while lmark <= rmark and a[lmark] <= pivot_val:
             lmark += 1
-        # rmark는 피벗보다 크면 이동
+        # rmark는 피벗보다 크거나 같으면 이동
         while lmark <= rmark and a[rmark] >= pivot_val:
             rmark -= 1
 
