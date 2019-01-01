@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49951dd5-1efa-4e97-85cc-8e5fd635fa9f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_30days/Day 22_Binary Search Trees/Binary Search Trees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/MaxArraySum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/MaxArraySum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,18 +54,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/AlternatingCharacters.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/MakingAnagrams.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,11 +113,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_30days/Day 22_Binary Search Trees/Binary Search Trees.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
               <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/MaxArraySum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="52" column="24" lean-forward="true" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -223,10 +223,10 @@
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Linked Lists/LinkedListTutorial.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Trees/LowestCommonAncestor.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Array/Arrays_LeftRotation.py" />
-        <option value="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/MaxArraySum.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Abbreviation.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Making One.py" />
         <option value="$PROJECT_DIR$/Python_30days/Day 22_Binary Search Trees/Binary Search Trees.py" />
+        <option value="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/MaxArraySum.py" />
       </list>
     </option>
   </component>
@@ -257,7 +257,8 @@
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_30days" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview Preparation Kit" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic Programming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -446,12 +447,12 @@
       <workItem from="1546145968719" duration="61000" />
       <workItem from="1546146067290" duration="2740000" />
       <workItem from="1546223081009" duration="21737000" />
-      <workItem from="1546314670827" duration="680000" />
+      <workItem from="1546314670827" duration="1035000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155844000" />
+    <option name="totallyTimeSpent" value="156199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
@@ -738,16 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/MaxArraySum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Array/MinimumSwaps2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -920,6 +911,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/MaxArraySum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="52" column="24" lean-forward="true" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
