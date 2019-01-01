@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49951dd5-1efa-4e97-85cc-8e5fd635fa9f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Making One.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Making One.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Candies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,18 +59,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/MakingAnagrams.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/SherlockAndTheValidString.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
@@ -98,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Abbreviation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="304">
+              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
@@ -108,10 +97,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Candies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Making One.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+            <state relative-caret-position="608">
+              <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -179,7 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Statistics_10days/Day7/Spearman's Rank Correlation Coefficient.txt" />
         <option value="$PROJECT_DIR$/Statistics_10days/Day7/Spearman'sRankCorrelationCoefficient.py" />
         <option value="$PROJECT_DIR$/Python_30days/Day 08_Dictionaries and Maps/DictionariesAndMaps.py" />
         <option value="$PROJECT_DIR$/Statistics_10days/Day8/Least Square Regression Line.txt" />
@@ -230,6 +230,7 @@
         <option value="$PROJECT_DIR$/Python_30days/Day 22_Binary Search Trees/Binary Search Trees.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/MaxArraySum.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Making One.py" />
+        <option value="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Candies.py" />
       </list>
     </option>
   </component>
@@ -450,12 +451,12 @@
       <workItem from="1546145968719" duration="61000" />
       <workItem from="1546146067290" duration="2740000" />
       <workItem from="1546223081009" duration="21737000" />
-      <workItem from="1546314670827" duration="1526000" />
+      <workItem from="1546314670827" duration="3472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156690000" />
+    <option name="totallyTimeSpent" value="158636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
@@ -519,9 +520,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProblemSolving/PickingNumbers.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolving/Non_DivisibleSubset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -876,16 +874,6 @@
     <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Trees/LowestCommonAncestor.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Abbreviation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Stacks and Queues/Queues_ATaleOfTwoStacks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
@@ -922,8 +910,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Making One.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        <state relative-caret-position="608">
+          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Abbreviation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Candies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
