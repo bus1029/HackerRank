@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49951dd5-1efa-4e97-85cc-8e5fd635fa9f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Greedy Florist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Max Min.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,15 +59,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Graphs/Graph.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_30days/Day 23_BST Level-Order Traversal/BST Depth-Order Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -145,11 +137,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Greedy Florist.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="901">
               <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Max Min.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
@@ -187,7 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Statistics_10days/Day9/Multiple Linear Regression Tutorial.txt" />
         <option value="$PROJECT_DIR$/Statistics_10days/Day9/MultipleLinearRegression.py" />
         <option value="$PROJECT_DIR$/Python_30days/Day 10_Binary Numbers/BinaryNumbers.py" />
         <option value="$PROJECT_DIR$/Python_30days/Day 12_Inheritance/Inheritence.py" />
@@ -238,6 +241,7 @@
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Minimum Absolute Difference in an Array.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Luck Balance.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Greedy Florist.py" />
+        <option value="$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Max Min.py" />
       </list>
     </option>
   </component>
@@ -470,12 +474,12 @@
       <workItem from="1546146067290" duration="2740000" />
       <workItem from="1546223081009" duration="21737000" />
       <workItem from="1546314670827" duration="8866000" />
-      <workItem from="1546399019236" duration="6048000" />
+      <workItem from="1546399019236" duration="7051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170078000" />
+    <option name="totallyTimeSpent" value="171081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
@@ -534,13 +538,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_30days/Day 16_Exceptions - String to Integer/StringToIntegers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Miniconda3/Lib/urllib/parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14725">
@@ -931,16 +928,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Minimum Absolute Difference in an Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Luck Balance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -955,6 +942,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
           <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Minimum Absolute Difference in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Max Min.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>
