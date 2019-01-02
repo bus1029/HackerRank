@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49951dd5-1efa-4e97-85cc-8e5fd635fa9f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Max Min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Preparation Kit/Search/Ice Cream Parlor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -149,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Max Min.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+            <state relative-caret-position="388">
+              <caret line="54" column="14" lean-forward="true" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
@@ -161,11 +161,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_30days/Day 23_BST Level-Order Traversal/BST Level-Order Traversal.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Search/Ice Cream Parlor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+            <state relative-caret-position="1026">
+              <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,7 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Statistics_10days/Day9/MultipleLinearRegression.py" />
         <option value="$PROJECT_DIR$/Python_30days/Day 10_Binary Numbers/BinaryNumbers.py" />
         <option value="$PROJECT_DIR$/Python_30days/Day 12_Inheritance/Inheritence.py" />
         <option value="$PROJECT_DIR$/Python_30days/Day 13_Abstract Classes/AbstractClasses.py" />
@@ -242,6 +244,7 @@
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Luck Balance.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Greedy Florist.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Max Min.py" />
+        <option value="$PROJECT_DIR$/Interview Preparation Kit/Search/Ice Cream Parlor.py" />
       </list>
     </option>
   </component>
@@ -268,12 +271,6 @@
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="Interview Preparation Kit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Interview Preparation Kit" type="462c0819:PsiDirectoryNode" />
-              <item name="Greedy Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
@@ -474,16 +471,15 @@
       <workItem from="1546146067290" duration="2740000" />
       <workItem from="1546223081009" duration="21737000" />
       <workItem from="1546314670827" duration="8866000" />
-      <workItem from="1546399019236" duration="7051000" />
+      <workItem from="1546399019236" duration="8905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171081000" />
+    <option name="totallyTimeSpent" value="172935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24473257" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -538,13 +534,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Miniconda3/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14725">
-          <caret line="777" selection-start-line="777" selection-end-line="777" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_30days/Day 12_Inheritance/Inheritence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -960,8 +949,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Max Min.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+        <state relative-caret-position="388">
+          <caret line="54" column="14" lean-forward="true" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Search/Ice Cream Parlor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>
