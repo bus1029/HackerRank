@@ -37,10 +37,11 @@ def minimumSwaps(arr):
     # 여기서 포인트는 바꿔진 위치에서 다시 한번 실행한다는 점
     i = 0
     while i < len(arr):
+        # 해당 값이 해당 값-1의 Index에 위치해 있을 때
         if arr[i] == arr[arr[i]-1]:
             i += 1
             continue
-
+        # 위치해있지 않다면
         elif arr[i] != arr[arr[i]-1]:
             swap += 1
             # temp = arr[i]

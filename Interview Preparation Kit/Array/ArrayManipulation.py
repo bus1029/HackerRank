@@ -62,6 +62,7 @@ def arrayManipulation(n, queries):
     for i in result:
         p_sum += i
 
+        # Find the Largest Value in Result List
         if max_val < p_sum:
             max_val = p_sum
 

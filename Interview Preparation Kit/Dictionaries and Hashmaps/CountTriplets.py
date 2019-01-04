@@ -29,7 +29,7 @@ def countTriplets(arr, r):
     removed_arr = list(OrderedDict.fromkeys(arr))
 
     # Array is made by only one number (1, 1, 1, 1, 1, 1, 1, ...)
-    # nC2
+    # nC3
     if len(removed_arr) == 1:
         triplets += (len(arr) * (len(arr) - 1) * (len(arr) - 2)) // 6
 
