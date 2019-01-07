@@ -5,6 +5,7 @@ import os
 import random
 import re
 import sys
+import bisect
 
 
 # Complete the triplets function below.
@@ -40,7 +41,6 @@ def triplets(a, b, c):
 
     return triplets
     """
-
     # 위 코드의 문제점은 b를 기준으로 순회할 때
     # a와 c가 항상 처음부터 다시 돈다는 점이다.
     # 이 때, 처음부터 다시 돌지말고 돈 곳부터 다시 돌린다면 더 빠르게 해결할 수 있다.
@@ -62,6 +62,19 @@ def triplets(a, b, c):
         bi += 1
 
     return triplets
+
+
+    # 이진탐색 알고리즘으로도 해결할 수 있다.
+    # 말그대로 b의 원소보다 작은 a와 c의 원소의 개수를 구하면 되기 때문에
+    # Python의 내장 함수 중 하나인 bisect를 사용한다.
+    # bisect(a, x)를 사용하게 되면 a배열에 x를 집어넣고 난 뒤의 index 값을 리턴한다.
+    # index 값을 리턴하기 때문에, x 값보다 작은 원소들의 갯수로 그대로 사용하면 된다.
+    # 이 때, bisect는 같은 값이 있다면 그 값의 오른쪽 위치를 취한다.
+    """
+    a, b, c = sorted(set(a)), sorted(set(b)), sorted(set(c))
+    
+    return sum([bisect.bisect(a, x) * bisect.bisect(c, x) for x in b])
+    """
 
 
 if __name__ == '__main__':
