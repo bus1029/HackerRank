@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49951dd5-1efa-4e97-85cc-8e5fd635fa9f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Interview Preparation Kit/Search/Triple Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Preparation Kit/Search/Triple Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview Preparation Kit/Search/Minimum Time Required.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +27,7 @@
     <SUITE FILE_PATH="coverage/HackerRank$Quartiles.coverage" NAME="Quartiles Coverage Results" MODIFIED="1544495569438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics_10days/Day1" />
     <SUITE FILE_PATH="coverage/HackerRank$GeometricDistribution1.coverage" NAME="GeometricDistribution1 Coverage Results" MODIFIED="1544761070450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics_10days/Day4" />
     <SUITE FILE_PATH="coverage/HackerRank$BinaryNumbers.coverage" NAME="BinaryNumbers Coverage Results" MODIFIED="1545277447677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_30days/Day 10_Binary Numbers" />
+    <SUITE FILE_PATH="coverage/HackerRank$Minimum_Time_Required.coverage" NAME="Minimum Time Required Coverage Results" MODIFIED="1546848150160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview Preparation Kit/Search" />
     <SUITE FILE_PATH="coverage/HackerRank$Exception_Practice.coverage" NAME="Exception_Practice Coverage Results" MODIFIED="1546479437432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
     <SUITE FILE_PATH="coverage/HackerRank$InterquartileRange.coverage" NAME="InterquartileRange Coverage Results" MODIFIED="1544498328697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics_10days/Day1" />
     <SUITE FILE_PATH="coverage/HackerRank$BalancedBrackets.coverage" NAME="BalancedBrackets Coverage Results" MODIFIED="1546148226398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview Preparation Kit/Stacks and Queues" />
@@ -123,7 +125,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Search/Triple Sum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="779">
@@ -135,11 +137,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Greedy Algorithms/Max Min.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Search/Minimum Time Required.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="532">
+              <caret line="76" column="33" lean-forward="true" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
@@ -182,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Interview Preparation Kit/Array/TwoDArray_DS.py" />
         <option value="$PROJECT_DIR$/Python_30days/Day 18_Queues and Stacks/QueuesAndStacks.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/MakingAnagrams.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/AlternatingCharacters.py" />
@@ -233,6 +234,7 @@
         <option value="$PROJECT_DIR$/Python_30days/Day 28_RegEx, Patterns, and Intro to Databases/Solution.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Search/Pairs.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Search/Triple Sum.py" />
+        <option value="$PROJECT_DIR$/Interview Preparation Kit/Search/Minimum Time Required.py" />
       </list>
     </option>
   </component>
@@ -296,29 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Linked List">
-    <configuration name="Abbreviation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="HackerRank" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Abbreviation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Minimum Time Required">
     <configuration name="BST Depth-Order Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -407,20 +387,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Minimum Time Required" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HackerRank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview Preparation Kit/Search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview Preparation Kit/Search/Minimum Time Required.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Abbreviation" />
       <item itemvalue="Python.Making One" />
       <item itemvalue="Python.BST Depth-Order Traversal" />
       <item itemvalue="Python.Exception_Practice" />
       <item itemvalue="Python.Linked List" />
+      <item itemvalue="Python.Minimum Time Required" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Minimum Time Required" />
         <item itemvalue="Python.Linked List" />
         <item itemvalue="Python.Exception_Practice" />
         <item itemvalue="Python.BST Depth-Order Traversal" />
         <item itemvalue="Python.Making One" />
-        <item itemvalue="Python.Abbreviation" />
       </list>
     </recent_temporary>
   </component>
@@ -457,12 +459,12 @@
       <workItem from="1546399019236" duration="9505000" />
       <workItem from="1546476067338" duration="6772000" />
       <workItem from="1546564374337" duration="2204000" />
-      <workItem from="1546825621968" duration="5991000" />
+      <workItem from="1546825621968" duration="9124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188502000" />
+    <option name="totallyTimeSpent" value="191635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
@@ -474,7 +476,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31264728" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40219954" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.40219954" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -516,13 +518,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_30days/Day 21_Generics/Note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_30days/Day 19_Interfaces/Interfaces.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -947,6 +942,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
           <caret line="71" column="46" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="46" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Search/Minimum Time Required.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="76" column="33" lean-forward="true" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>
