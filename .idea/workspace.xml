@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Making One.py" line="0" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49951dd5-1efa-4e97-85cc-8e5fd635fa9f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Abbreviation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Abbreviation.py" afterDir="false" />
-    </list>
+    <list default="true" id="49951dd5-1efa-4e97-85cc-8e5fd635fa9f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,8 +111,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Abbreviation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="59" column="33" lean-forward="true" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
+            <state relative-caret-position="361">
+              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
@@ -483,16 +480,15 @@
       <workItem from="1546825621968" duration="10348000" />
       <workItem from="1546934988529" duration="3703000" />
       <workItem from="1547002605379" duration="13000" />
-      <workItem from="1547014073579" duration="3623000" />
+      <workItem from="1547014073579" duration="5158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200198000" />
+    <option name="totallyTimeSpent" value="201733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26661265" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -979,8 +975,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Abbreviation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="59" column="33" lean-forward="true" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
+        <state relative-caret-position="361">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>

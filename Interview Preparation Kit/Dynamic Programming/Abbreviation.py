@@ -54,6 +54,11 @@ def abbreviation(a, b):
         b   T   T   T
         
         dp[3][2] = True => 'YES'
+        'a' - 'A' = ' ' - ' ' | ' ' - 'A'
+        'a'-'A'가 만들어지려면, ' '-' '에서 만들어지던지, 
+        ' ' - 'A'에서 만들어져야 한다. 그래서 OR를 통해서 True / False를 판단한다.
+
+        'a' - 'AB' = ' ' - 'AB'에서 밖에 안만들어지므로 False.
     """
 
     for i in range(1, m + 1):
