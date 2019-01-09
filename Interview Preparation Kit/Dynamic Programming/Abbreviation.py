@@ -31,10 +31,52 @@ def abbreviation(a, b):
     #     return "YES"
     # else:
     #     return "NO"
+    m, n = len(a), len(b)
+    # b의 길이가 0일때부터 n일 때까지 모든 a 길이 만큼에 대해서 False인 2차원 배열을 생성
+    dp = [[False] * (n + 1) for _ in range(m + 1)]
+
+    # a, b가 모두 비어있는 경우 True
+    dp[0][0] = True
+
+    # b가 비어있고, a[i-1]이 소문자로 이루어진 경우 True
+    for i in range(1, m + 1):
+        dp[i][0] = a[i - 1].islower()
+
+    """
+        a = AaB
+        b = AB
+
+        dp = 
+            0   A   B
+        0   T   F   F
+        a   T   T   F
+        A   F   T   F
+        b   T   T   T
+        
+        dp[3][2] = True => 'YES'
+    """
+
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            a_dp = a[i - 1]
+            b_dp = b[j - 1]
+
+            # a가 대문자인 경우
+            if a_dp.isupper():
+                if a_dp == b_dp:
+                    dp[i][j] = dp[i - 1][j - 1]
+            # a가 소문자인 경우
+            else:
+                if a_dp.upper() == b_dp:
+                    dp[i][j] = dp[i - 1][j - 1] | dp[i - 1][j]
+                else:
+                    dp[i][j] = dp[i - 1][j]
+
+    return "YES" if dp[m][n] else "NO"
 
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    # fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
     q = int(input())
 
@@ -45,6 +87,6 @@ if __name__ == '__main__':
 
         result = abbreviation(a, b)
 
-        fptr.write(result + '\n')
-
-    fptr.close()
+        # fptr.write(result + '\n')
+    #
+    # fptr.close()
