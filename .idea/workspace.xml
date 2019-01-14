@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49951dd5-1efa-4e97-85cc-8e5fd635fa9f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Interview Preparation Kit/Search/Maximum Subarray Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/Common Child.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/Common Child.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     <SUITE FILE_PATH="coverage/HackerRank$SherlockAndAnagrams.coverage" NAME="SherlockAndAnagrams Coverage Results" MODIFIED="1545807992597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview Preparation Kit/Dictionaries and Hashmaps" />
     <SUITE FILE_PATH="coverage/HackerRank$Linked_List.coverage" NAME="Linked List Coverage Results" MODIFIED="1546565108609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_30days/Day 24_More Linked Lists" />
     <SUITE FILE_PATH="coverage/HackerRank$Scope.coverage" NAME="Scope Coverage Results" MODIFIED="1545618276059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_30days/Day 14_Scope" />
+    <SUITE FILE_PATH="coverage/HackerRank$Maximum_Subarray_Sum.coverage" NAME="Maximum Subarray Sum Coverage Results" MODIFIED="1547460117565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview Preparation Kit/Search" />
     <SUITE FILE_PATH="coverage/HackerRank$LinkedList.coverage" NAME="LinkedList Coverage Results" MODIFIED="1545790195277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_30days/Day 15_Linked List" />
     <SUITE FILE_PATH="coverage/HackerRank$BinomialDistribution1.coverage" NAME="BinomialDistribution1 Coverage Results" MODIFIED="1544757191123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics_10days/Day4" />
     <SUITE FILE_PATH="coverage/HackerRank$Queues_ATaleOfTwoStacks.coverage" NAME="Queues_ATaleOfTwoStacks Coverage Results" MODIFIED="1546228567242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview Preparation Kit/Stacks and Queues" />
@@ -65,10 +66,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Search/Minimum Time Required.py">
+        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/Common Child.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1330">
-              <caret line="76" column="33" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+            <state relative-caret-position="570">
+              <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
@@ -77,10 +78,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/Common Child.py">
+        <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Search/Maximum Subarray Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+            <state relative-caret-position="675">
+              <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
@@ -186,7 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/AlternatingCharacters.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/SherlockAndTheValidString.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Sorting/Sorting_BubbleSort.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Sorting/Sorting_HeapSort.py" />
@@ -237,6 +237,7 @@
         <option value="$PROJECT_DIR$/Python_30days/Day 29_Bitwise AND/Solution.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/Dynamic Programming/Abbreviation.py" />
         <option value="$PROJECT_DIR$/Interview Preparation Kit/String Manipulation/Common Child.py" />
+        <option value="$PROJECT_DIR$/Interview Preparation Kit/Search/Maximum Subarray Sum.py" />
       </list>
     </option>
   </component>
@@ -274,6 +275,12 @@
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="Interview Preparation Kit" type="462c0819:PsiDirectoryNode" />
+              <item name="Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview Preparation Kit" type="462c0819:PsiDirectoryNode" />
               <item name="String Manipulation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -306,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Common Child">
+  <component name="RunManager" selected="Python.Maximum Subarray Sum">
     <configuration name="Abbreviation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -351,7 +358,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Linked List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Maximum Subarray Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRank" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -359,12 +366,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_30days/Day 24_More Linked Lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview Preparation Kit/Search" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_30days/Day 24_More Linked Lists/Linked List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview Preparation Kit/Search/Maximum Subarray Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -418,19 +425,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Linked List" />
       <item itemvalue="Python.Minimum Time Required" />
       <item itemvalue="Python.Solution" />
       <item itemvalue="Python.Abbreviation" />
       <item itemvalue="Python.Common Child" />
+      <item itemvalue="Python.Maximum Subarray Sum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Maximum Subarray Sum" />
         <item itemvalue="Python.Common Child" />
         <item itemvalue="Python.Abbreviation" />
         <item itemvalue="Python.Solution" />
         <item itemvalue="Python.Minimum Time Required" />
-        <item itemvalue="Python.Linked List" />
       </list>
     </recent_temporary>
   </component>
@@ -473,12 +480,12 @@
       <workItem from="1547014073579" duration="5976000" />
       <workItem from="1547088968680" duration="1452000" />
       <workItem from="1547105823175" duration="1846000" />
-      <workItem from="1547434161200" duration="2632000" />
+      <workItem from="1547434161200" duration="4837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208481000" />
+    <option name="totallyTimeSpent" value="210686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
@@ -537,13 +544,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Linked Lists/LinkedListTutorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Graphs/Graph.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -974,6 +974,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Preparation Kit/Search/Maximum Subarray Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>
